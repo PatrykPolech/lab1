@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\papo0\source\repos\laby\laby\main.cpp(138,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\papo0\source\repos\laby\laby\main.cpp(141,72): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\papo0\source\repos\laby\laby\main.cpp(144,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\papo0\source\repos\laby\laby\main.cpp(147,63): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\papo0\source\repos\laby\laby\main.cpp(152,33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\papo0\source\repos\laby\laby\main.cpp(152,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\papo0\source\repos\laby\laby\main.cpp(423,30): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  laby.vcxproj -> C:\Users\papo0\source\repos\laby\x64\Debug\laby.exe
